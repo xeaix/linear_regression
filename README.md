@@ -14,22 +14,18 @@ The performance of the linear regression model is evaluated using Mean Squared E
 
 ### Key Features:
 
-Supervised Learning: The model is trained on a labeled dataset, learning from historical examples to predict future profit outcomes.
+- Supervised Learning: The model is trained on a labeled dataset, learning from historical examples to predict future profit outcomes.
 
-Linear Regression: Leveraging the simplicity and interpretability of linear regression, this model provides insights into the linear relationships between input variables and profit.
+- Linear Regression: Leveraging the simplicity and interpretability of linear regression, this model provides insights into the linear relationships between input variables and profit.
 
-MSE Evaluation: The model's accuracy is assessed using MSE, providing a quantitative measure of prediction quality.
+- MSE Evaluation: The model's accuracy is assessed using MSE, providing a quantitative measure of prediction quality.
 
 ### How to Use:
 
 1. Dataset: Ensure that the dataset is well-structured, with features representing independent variables and profit as the dependent variable.
-
 2. Data Preprocessing: Prepare the data by handling missing values, encoding categorical variables, and scaling if necessary.
-
 3. Training the Model: Utilize the provided code to train the linear regression model on the prepared dataset.
-
 4. Evaluation: Evaluate the model's performance by calculating MSE on a test set, assessing how well it generalizes to new data.
-
 5. Prediction: Deploy the trained model to make profit predictions for new scenarios, aiding in strategic decision-making.
 
 ### Contributions and Feedback:
